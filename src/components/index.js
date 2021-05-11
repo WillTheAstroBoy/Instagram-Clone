@@ -1,0 +1,11 @@
+export { default as Form } from './form';
+export { default as Footer } from "./footer";
+export { default as Header } from "./header";
+export { default as Home } from "./home";
+export { default as Post } from "./post";
+export { default as Timeline } from "./timeline";
+export { default as Comments } from "./comments";
+export { default as AddComment } from "./add-comment";
+export { default as Sidebar } from "./sidebar";
+export { default as Profile } from "./profile";
+export { default as NotFound } from "./not-found";
